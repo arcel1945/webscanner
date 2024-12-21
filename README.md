@@ -20,5 +20,5 @@ for url:
 12. Check HTTP Methods
 
 for IP:
-1.Scan ports
-2.Reverse ip lookup
+1. Scan Ports
+2. Reverse IP Lookup
